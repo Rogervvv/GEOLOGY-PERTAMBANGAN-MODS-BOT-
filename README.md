@@ -1,6 +1,6 @@
   <body>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
-<br>
+
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
