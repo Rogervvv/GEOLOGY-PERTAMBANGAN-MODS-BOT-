@@ -13,24 +13,24 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'
-global.ig = 'https://www.instagram.com/raehan1986'
-global.mygc = 'wa.me/6285349736408'
-global.myweb = 'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'
-global.linkgrupss = "https://chat.whatsapp.com/LMuuBpMDTkb6Zmg3KorYgQ"
-global.linkpro = 'https://www.instagram.com/raehan1986'
-global.email = 'bacotah@gmail.com'
+global.youtube = 'https://youtube.com/channel/UC7flTES4TqWBLOPxk25_tsA'
+global.ig = 'https://www.instagram.com/p/CBqPkqsH344/?igshid=YmMyMTA2M2Y='
+global.mygc = 'wa.me/6281227607864'
+global.myweb = 'https://youtube.com/channel/UC7flTES4TqWBLOPxk25_tsA'
+global.linkgrupss = "https://chat.whatsapp.com/Fj5z7EXvGLVARaZ0cJF8rd"
+global.linkpro = 'https://www.instagram.com/p/CBqPkqsH344/?igshid=YmMyMTA2M2Y='
+global.email = 'Hendralubeck86@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RAEHAN1986' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'RAEHAN 1986 MODS' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RAEHAN1986' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'HENDRA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'TOHKA BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'noname' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285349736408']
-global.premium = ['6281528628870']
-global.packname = 'BAPAK BANYAK NEMBAK DI TOLAK.jpg'
-global.ownerr = ['RAEHAN1986']
+global.owner = ['6281227607864']
+global.premium = ['6285767380127']
+global.packname = 'IG:noname_0380.jpg'
+global.ownerr = ['HENDRA_LUBECK']
 global.author = 'SINGKONG SINGKONG SINGKONG'
 global.sessionName = 'singkong'
 global.prefa = ['','!','.',',','🐤','🗿']
